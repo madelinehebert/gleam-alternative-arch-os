@@ -6,6 +6,5 @@ This repository contains builds of the Gleam programming language for alternativ
 <!-- A spacer -->
 <div>&nbsp;</div>
 
-Gleam is a friendly language for building type-safe systems that scale! For more
-information see [the website](https://gleam.run).
+For more information on Gleam, check out its [website](https://gleam.run).
 
